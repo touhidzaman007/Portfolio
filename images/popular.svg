@@ -1,15 +1,9 @@
-<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49 116" width="49" height="116">
-	<title>Popular</title>
-	<style>
-		tspan { white-space:pre } 
-		.s0 { fill: #402b86 } 
-		.s1 { fill: #1b0760 } 
-		.t2 { font-size: 15px;line-height: 26px;fill: #ffffff;font-weight: 700;font-family: "Inter-Bold", "Inter" } 
-	</style>
-	<path id="Shape 5" class="s0" d="m1 8.5h46.7l-7.7-6.5h-31.2z"/>
-	<path id="Shape 4" class="s1" d="m8.8 115l16.9-13 15.6 13v-113h-32.5z"/>
-	<text id="Popular" style="transform: matrix(0,1.298,-1.298,0,19.775,17.016)" >
-		<tspan x="0" y="0" class="t2">Popular
-</tspan>
-	</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 87.8">
+  <path fill="#1e0f6d" d="M0 4.7h35L30.3 0H5.1L0 4.7z" data-name="Layer 2"/>
+  <g data-name="Layer 1">
+    <path fill="#1b0760" d="M5.3.2v87l11.9-11.9 12.5 12.5V.2H5.3z"/>
+    <text transform="rotate(90 1.05 12.25)" font-size="15" fill="#fff" font-family="Inter-Bold,Inter" font-weight="700">
+      <tspan letter-spacing="-.01em">P</tspan><tspan x="9.6" y="0">opular</tspan>
+    </text>
+  </g>
 </svg>
