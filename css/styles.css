@@ -548,8 +548,7 @@ a {
 
 /* Callouts */
 .callout-section {
-  background: linear-gradient(180deg, #fff 40%, #232323 40%);
-  height: 100%;
+  transform: translateY(5rem);
 }
 
 .callout {
@@ -834,6 +833,7 @@ a {
 
 .footer {
   background-color: #232323;
+  padding-top: 10rem;
 }
 
 .footer a {
